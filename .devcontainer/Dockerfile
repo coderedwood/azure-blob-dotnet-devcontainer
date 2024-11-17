@@ -1,0 +1,1 @@
+FROM mcr.microsoft.com/devcontainers/dotnet:6.0-bullseye-slim
